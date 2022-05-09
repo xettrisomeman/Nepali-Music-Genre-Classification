@@ -20,8 +20,8 @@ There is no audio dataset publicly available, so the data had to be created manu
 
 
 # Results
-![Losses Comparison]("./assets/genreclassify/lossescomparison.jpg")
-![Accuracy Comparison]("./assets/genreclassify/accuracycomparison.jpg")
+![Losses Comparison]("/genreclassify/assets/lossescomparison.jpg")
+![Accuracy Comparison]("/genreclassify/assets/accuracycomparison.jpg")
 
 
 
