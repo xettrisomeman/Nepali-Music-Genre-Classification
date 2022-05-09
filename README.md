@@ -16,8 +16,7 @@ Code for classifying music genre using Bidirectional LSTM.
 
 
 ## Datasets
-There is no audio dataset publicly available, so the data had to be created manually. There is about 400 samples of music , each 30 seconds of length. For searching the song youtube is used and for trimming the audio audacity (Open Source software) is used.
-
+There is no audio dataset publicly available, so the data had to be created manually. There is about 400 samples of music , each 30 seconds of length. For searching the song youtube is used and for trimming the audio audacity (Open Source software) is used. For training 75% of data is used and for testing remaining 25% is used.
 
 # Results
 
