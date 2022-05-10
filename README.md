@@ -29,6 +29,10 @@ Accuracy Comparison
 
 
 
+#### References
+- [Mel-Frequency Cepstral Coefficients Explained](https://www.youtube.com/watch?v=4_SH2nfbQZ8)
+- [Preparing dataset for Music genre Classification](https://www.youtube.com/watch?v=szyGiObZymo) 
+- Poorjam, Amir Hossein. (2018). Re: Why we take only 12-13 MFCC coefficients in feature extraction?. Retrieved from: https://www.researchgate.net/post/Why_we_take_only_12-13_MFCC_coefficients_in_feature_extraction/5b0fd2b7cbdfd4b7b60e9431/citation/download.
 
 
 
