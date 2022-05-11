@@ -28,6 +28,16 @@ Accuracy Comparison
 ![](genreclassify/assets/accuracycomparison.jpg)
 
 
+# Make Prediction
+``` python
+git clone -b test https://github.com/xettrisomeman/Nepali-Music-Genre-Classification
+cd Nepali-Music-Classification
+pip install -r requirements.txt
+cd genreclassify
+python predict.py --help
+```
+
+
 
 #### References
 - [Mel-Frequency Cepstral Coefficients Explained](https://www.youtube.com/watch?v=4_SH2nfbQZ8)
